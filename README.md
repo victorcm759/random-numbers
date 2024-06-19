@@ -1,2 +1,2 @@
-# random-numbers
+# Clase Random
 Números al azar en Java
